@@ -26,3 +26,5 @@ Lower reliance on the Top 3 categories by improving margin mix in high-volume SK
 Prioritize the 17 at-risk stores with a clear plan: fix efficiency where demand exists, and consider exit/downsizing where demand is structurally weak.
 •	Scale operations ahead of demand inflection
 Use online growth trajectory and order density to guide capacity planning so delivery performance remains stable as online share increases.
+
+https://public.tableau.com/app/profile/rishita.mantri/viz/Portfolio_Analysis_17901102980650/Story1?publish=yes
